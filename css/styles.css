@@ -1,1 +1,16 @@
 /* Add custom css styles here */
+header {
+    background-image: url('https://i.pinimg.com/736x/22/fb/5f/22fb5f25e58baed32468c9084f50ad84.jpg');
+    background-size: cover;
+    height: 400px;
+   
+}
+
+header h1 {
+    font-family: "Lilita One", sans-serif;
+}
+
+header p {
+    font-family: "Poppins", sans-serif;
+}
+
