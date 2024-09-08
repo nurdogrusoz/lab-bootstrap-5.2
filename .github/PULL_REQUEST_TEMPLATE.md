@@ -15,15 +15,15 @@ TITLE: Include your section in the pull request title
 - [ ] Wednesday
 - [ ] Thursday
 - [ ] Friday 3pm
-- [ ] Friday 6pm
+- [x] Friday 6pm
 
 **Is the solution complete?**
 
-[Yes/No]
+[Yes]
 
 **Did you run into any problems?**
 
-[Describe...]
+[In order to make the alternating HTML have the cookie names on top of the cookie image on the mobile screen]
 
 **Did you collaborate with others on this solution?**
 
